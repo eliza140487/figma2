@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(247, 243, 243);
+}
+body{
+    width: 1140px;
+}
+.header{
+    text-align: center;
+    margin-top: 50px;
+}
+img{
+    width: 336px;
+    height: 261px;
+    top: 280px;
+    left: 552px;
+}
+.header{
+    text-align: center;
+    margin-top: 50px ;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.image{
+    width: 350px;
+    height: 270px;
+    border-radius: 35px;
+}
+.card{
+    margin-top: 28px;
+}
+.cards{
+    margin-top: 10px;
+}
+.btn{
+    margin-top: 20px;
+    border-radius: 10px;
+    background: red;
+    color: aqua;
+    width: 100px;
+    height: 45px;
+}
+.header2{
+    text-align: center;
+    margin-top: 50px;
+}
+img{
+    width: 336px;
+    height: 300px;
+    top: 280px;
+    left: 552px;
+}
+.heros{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 35px;
+}
+.image{
+    width: 350px;
+    height: 300px;
+    border-radius: 25px;
+}
+@media (max-width:500px) {
+    .section{
+        background-color: rgb(68, 66, 97);
+        display: flex;
+        flex-wrap: wrap;
+        height: 336px;
+        width: 300px;
+    }
+    
+}
